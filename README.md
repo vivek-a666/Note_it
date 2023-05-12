@@ -2,7 +2,10 @@
 
 ### How to Use ?
 
-This is awesome note app where you can add you note, delete any note and search your note.
+This is awesome note app where you can add you note, delete any note and search your note. Try it out the app here
+
+[Click here](https://note-it-666.netlify.app/)<br>
+
 
 ### Tech Stack Used
 - JavaScript 
